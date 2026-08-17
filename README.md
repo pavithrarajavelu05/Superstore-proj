@@ -24,10 +24,17 @@ This project explores the Sample Superstore dataset to uncover trends in sales, 
 ## Project Structure
 
 Superstore-proj/
+
 ├── app.py # Main Streamlit application
+
 ├── agent.py # AI agent logic
+
 ├── rag_store.py # RAG pipeline and vector store setup
+
 ├── check_data.py # Data validation script
+
 ├── chroma_store/ # Vector database storage
+
 ├── Sample - Superstore.csv # Dataset
+
 └── chart.png # Sample dashboard visualization
